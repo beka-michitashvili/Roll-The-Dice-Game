@@ -25,6 +25,6 @@ Click the "New Game" button to start a new game.
 
 👀 Preview
 
-You can see a live preview of the game here: [INSERT LINK TO THE GAME]
+You can see a live preview of the game here: [https://beka-michitashvili.github.io/Roll-The-Dice-Game/]
 
 Enjoy playing the "Roll The Dice"!
