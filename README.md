@@ -1,4 +1,4 @@
-🎲 Roll-The-Dice-Game 🎲
+# 🎲 Roll-The-Dice-Game 🎲
 
 This is a fun two-player game called "Roll The Dice" created using HTML, CSS, and JavaScript (DOM). The objective of the game is to be the first player to reach 100 points.
 
